@@ -1,0 +1,62 @@
+FUND MASTER ANALYSIS SUMMARY
+
+Dataset: 01_fund_master.csv
+
+Total Schemes: 40
+
+Fund Houses Found:
+1. SBI Mutual Fund
+2. HDFC Mutual Fund
+3. ICICI Prudential MF
+4. Nippon India MF
+5. Kotak Mahindra MF
+6. Axis Mutual Fund
+7. Aditya Birla Sun Life MF
+8. UTI Mutual Fund
+9. Mirae Asset MF
+10. DSP Mutual Fund
+
+Categories:
+1. Equity
+2. Debt
+
+Sub Categories:
+1. Large Cap
+2. Small Cap
+3. Gilt
+4. Mid Cap
+5. Short Duration
+6. Value
+7. Liquid
+8. Index/ETF
+9. Flexi Cap
+10. Index
+11. Large & Mid Cap
+12. ELSS
+
+Risk Categories:
+1. Low
+2. Moderate
+3. Moderately High
+4. High
+5. Very High
+
+SEBI Category Codes:
+EC01
+EC02
+EC03
+EC04
+EC05
+EC06
+DC01
+DC02
+EI01
+
+Observations:
+1. The dataset contains 40 mutual fund schemes.
+2. A total of 10 fund houses are present.
+3. Schemes belong to both Equity and Debt categories.
+4. Multiple sub-categories such as Large Cap, Mid Cap, Small Cap, ELSS, and Liquid Funds are available.
+5. Risk levels range from Low to Very High.
+6. No missing values were found in the Fund Master dataset.
+7. The dataset is clean and suitable for further analysis.

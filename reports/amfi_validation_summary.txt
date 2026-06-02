@@ -1,0 +1,25 @@
+AMFI VALIDATION SUMMARY
+
+Dataset Used:
+1. 01_fund_master.csv
+2. 02_nav_history.csv
+
+Results:
+
+Total Fund Master Codes : 40
+
+Total NAV History Codes : 40
+
+Missing Codes : 0
+
+Observations:
+
+1. All AMFI codes from Fund Master are available in NAV History.
+2. No scheme code mismatches were found.
+3. No missing AMFI codes were detected.
+4. Data consistency between datasets is maintained.
+
+Conclusion:
+
+All AMFI codes validated successfully.
+The datasets are ready for further analysis and dashboard development.
